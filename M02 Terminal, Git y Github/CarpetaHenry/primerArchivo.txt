@@ -1,0 +1,2 @@
+
+primer archivo creado desde consola usando los comando dados en el modulo M02.
